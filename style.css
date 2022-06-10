@@ -1,0 +1,1800 @@
+
+
+
+@media (max-width:1214px) {
+
+    .inp1{
+        max-width:315px; 
+    }
+    .lup{
+       display: none; 
+    }
+    .RedCard{
+        top:800px
+    }
+}
+
+@media (max-width:1116px) {
+    .inp1{
+        max-width:250px; 
+    }
+}
+@media (max-width:1020px) {
+    .inp1{
+        max-width:180px; 
+    }
+}
+@media (max-width:1052px) {
+    .inp1{
+        max-width:180px; 
+    }
+    .button1{
+        max-width: 180px;
+    }
+    .BlueCard{
+        max-width: 300px;
+
+    }
+    .GreenCard{
+        max-width: 290px;
+    }
+    .YellowCard{
+        max-width:300px;
+    }
+    .RedCard{
+        max-width: 290px;
+        top: 800px;
+    }
+}
+
+@media (max-width:998px) {
+    .wrap{
+        max-width: 750px;   
+    }
+    .box1{
+        max-width: 200px;
+    }
+    .logo1{
+        max-width: 200px;
+        max-height: 100px;
+    }
+    .inp1{
+        max-width:215px; 
+    }
+    .button1{
+       max-width:150px;
+    }
+    .years{
+        max-width: 200px;
+    }
+    .Made{
+        max-width: 200px; 
+    }
+    .GreenOval{
+        left: -480px;
+    }
+    .BlueCard{
+        max-width: 290px;
+    }
+    .GreenCard{
+        max-width: 290px;
+    }
+    .YellowCard{
+        max-width: 290px;
+    }
+    .RedCard{
+        max-width: 290px;
+    }
+  
+.button2{
+    max-width: 150px;
+}
+   
+  } 
+@media (max-width:767px) {
+    .wrap{
+        max-width:650px;
+    }
+    .box1{
+        max-width: 200px;
+    }
+    .logo1{
+        max-width: 200px;
+        max-height: 100px;
+    }
+    .inp1{
+        max-width:215px; 
+    }
+} 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    width: 400px;
+    height: 190vh;
+    box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.438);
+    background-color:#fff;
+ 
+}
+.wrap{
+    width:100%;
+    height: 170vh;
+}
+.box2{
+    width: 1200px;
+    height: 100vh;
+    padding-left: -10px;
+    padding-left: 50px;
+    max-width: 2000px;
+    justify-content: center;
+    align-items: center;
+    left: 400px;
+    top: 10px;
+    position:absolute ;
+}
+.logo1{
+    width:350px;
+    height: 204px;
+  left: -30px;
+}
+
+.dash{
+    width:400px;
+    height: 250px;
+}
+.top{
+    width: 100%;
+    height: 250px;
+}
+.inp1{
+    position: absolute;
+width: 415px;
+height: 60px;
+top: 80px;
+background: #FFFFFF;
+box-shadow: 0px 8px 25px rgba(226, 226, 226, 0.25);
+border-radius: 15px;
+align-items: center;
+justify-content: center;
+left:400px ;
+}
+.lup{
+    top:100px;
+    left: 780px;
+    position: absolute;
+}
+.button2{
+    position: absolute;
+width: 284px;
+height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+background: white;
+border-radius: 10px;
+cursor: pointer;
+}
+.button1{
+width: 284px;
+height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+background: #0E6EFF;
+border-radius: 10px;
+padding-left: 20px;
+cursor: pointer;
+}
+.Dashboard{
+    width: 106px;
+    height: 26px;
+    top:10px;
+    position: relative;
+    color: white;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+
+}
+.wallet{
+ position: relative;
+ top: 10px;
+ left: 5px;
+
+}
+.buttons{
+    width: 284px;
+    height: 50vh;
+    padding-left: 30px;
+  align-items: center;
+ 
+}
+.Transactions{
+    width: 20px;
+    height: 20px;
+}
+.Payment{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    width: 212px;
+    height: 21px;
+    left:10px;
+    top: 603px;
+    font-family: 'DM Sans';
+    color: #171B1E;
+    }
+    .years{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    position: absolute;
+    width: 236px;
+    height: 21px;
+    top: 638px;
+    left: 20px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    color: #72757A;
+    }
+    .Made{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    width: 243px;
+    height: 21px;
+    top: 680px;
+    left: 20px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    color: #72757A;
+    }
+    .GreenCard{
+        height: 149px;
+    width: 340px;
+    border-radius: 20px;
+background: #03B664;
+border-radius: 20px;
+padding-top: 40px;
+padding-left: 40px;
+left: 10px;
+position: absolute;
+cursor: pointer;
+}
+    .GreenBox{
+        position: absolute;
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    background: #08d87a;
+    border-radius: 10px;
+    padding: 10px;
+    }
+    .GreenOval{
+        width: 136px;
+        height: 136px;
+        position: relative;
+        border-radius: 50%;
+        background: #FFFFFF;
+        left:190px;
+        opacity: 0.2;
+        top: -70px;
+    }
+    .GreenNumber{
+position: relative;
+width: 125px;
+height: 38px;
+left: 70px;
+top: 8px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+color: #FFFFFF;
+    }
+    .GreenText{
+color: white;
+left: 70px;
+position: relative;
+top: -8px;
+    }
+    .GreenImg{
+        position:relative;
+        width: 20px;
+        height: 20px;
+        color: rgb(255, 255, 255);
+             }
+             .WhiteBlueOval{
+                position:relative;
+                width: 30px;
+                height: 30px;
+                color: rgb(255, 255, 255);
+                top: -26px;
+                left: -5px;
+             }
+    .BlueCard{
+        height: 149px;
+    width: 340px;
+    border-radius: 20px;
+background:  #01BEFF;
+border-radius: 20px;
+padding-top: 40px;
+padding-left: 40px;
+left: 370px;
+top: 250px;
+position: absolute;
+cursor: pointer;
+}
+.BlueBox{
+    position: absolute;
+width: 45px;
+height: 45px;
+border-radius: 10px;
+background: #3fcdfc;
+border-radius: 10px;
+padding: 10px;
+}
+.BlueNumber{
+    position: relative;
+    width: 125px;
+    height: 38px;
+    left: 70px;
+    top: 8px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+        }
+        .BlueText{
+            color: white;
+            left: 70px;
+            position: relative;
+            top: -8px;
+                }
+      .BlueOval{
+    width: 136px;
+    height: 136px;
+  position: relative;
+   border-radius: 50%;
+  background: #FFFFFF;
+   left:190px;
+   opacity: 0.2;
+    top: -70px;
+ }
+.BlueImg{
+position:relative;
+width: 20px;
+height: 20px;
+color: #fff;
+
+                }
+                .YellowCard{
+                    height: 149px;
+                width: 340px;
+                border-radius: 20px;
+            background: #FFBF26;
+            border-radius: 20px;
+            padding-top: 40px;
+            padding-left: 40px;
+            left: 730px;
+            top: 253px;
+            position: absolute;
+            cursor: pointer;
+            }
+            .YellowBox{
+                position: absolute;
+            width: 45px;
+            height: 45px;
+            border-radius: 10px;
+            background: #fccc5c;
+            border-radius: 10px;
+            padding: 10px;
+            }
+            .YellowNumber{
+                position: relative;
+                width: 125px;
+                height: 38px;
+                left: 70px;
+                top: 8px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 30px;
+                line-height: 39px;
+                color: #FFFFFF;
+                    }
+                    .YellowText{
+                        color: white;
+                        left: 70px;
+                        position: relative;
+                        top: -8px;
+                            }
+                  .YellowOval{
+                width: 136px;
+                height: 136px;
+              position: relative;
+               border-radius: 50%;
+              background: #FFFFFF;
+               left:190px;
+               opacity: 0.2;
+                top: -70px;
+             }
+            .YellowImg{
+            position:relative;
+            width: 12px;
+            height: 12px;
+           color: #FFFFFF;
+           top: -24px;
+           left: 4px;
+                            }
+                            .RedCard{
+                                height: 149px;
+                            width: 340px;
+                            border-radius: 20px;
+                        background: #FF684D;
+                        border-radius: 20px;
+                        padding-top: 40px;
+                        padding-left: 40px;
+                        left: 1090px;
+                        top: 253px;
+                        position: absolute;
+                        cursor: pointer;
+                        }
+                        .RedBox{
+                            position: absolute;
+                        width: 45px;
+                        height: 45px;
+                        border-radius: 10px;
+                        background: #ff806a;
+                        border-radius: 10px;
+                        padding: 10px;
+                        }
+                        .RedNumber{
+                            position: absolute;
+                            width: 125px;
+                            height: 38px;
+                            left: 120px;
+                            top: 40px;
+                            font-family: 'DM Sans';
+                            font-style: normal;
+                            font-weight: 700;
+                            font-size: 30px;
+                            line-height: 39px;
+                            color: #FFFFFF;
+                                }
+                                .RedText{
+                                    color: white;
+                                    left: 120px;
+                                    position: absolute;
+                                    top: 85px;
+                                        }
+                              .RedOval{
+                            width: 136px;
+                            height: 136px;
+                          position: absolute;
+                           border-radius: 50%;
+                          background: #FFFFFF;
+                           left:230px;
+                           opacity: 0.2;
+                            top: 70px;
+                         }
+                        .RedImg1{
+                        position:relative;
+                      top: -28px;
+                      left: 7px;
+                                        } 
+                                        .RedImg2{
+                                            position:relative;
+                                          top: -22px;
+                                          left: -5px;
+                                                            } 
+                                    .RedImg3{
+                                 position:relative;
+                                     top: -42px;
+                                    left: 15px;
+                                        }                   
+
+                                        .bell{
+                                            height: 18.6330623626709px;
+                                        width: 21.279125213623047px;
+                                        left: 900px;
+                                        top:100px;
+                                        border-radius: 0px;
+                                        position: absolute;
+                                        bottom: 22.36%;
+                                        }                
+            
+                                        .OrangeBellBall{
+                                            height: 24px;
+                                        width: 24px;
+                                        left: 908px;
+                                        top: 83px;
+                                        border-radius: 50%;
+                                        position: absolute;
+                                        background: #FF684D;
+                                        border: 2px solid #F5F5F5;
+                                        text-align: center;
+                                        color: white;
+                                        }
+                                        
+                                        .bellBall{
+                                            height: 2.66668701171875px;
+                                        width: 5.333374977111816px;
+                                        position: absolute;
+                                        left:  908px;
+                                        background: #72757A;
+                                        top: 120px;
+                                        border-radius: 5px;
+                                        }
+                                        .post{
+                                            height: 17.57986831665039px;
+                                        width: 24px;
+                                        left:1000px ;
+                                        top:100px;
+                                        position: absolute;
+                                        }
+                                        .PostBall{
+                                            width: 32px;
+                                            height: 24px;
+                                            background: #FFBF26;
+                                            border: 2px solid #F5F5F5;
+                                            border-radius: 12px;
+                                            text-align: center;
+                                            color: white;
+                                            position: absolute;
+                                            left:1010px;
+                                            top:80px;
+                                        }
+                                        .LogIn{
+                                            width: 100px;
+                                            height: 50px;
+                                            color: white;
+                                            background-color: #0E6EFF;
+                                            left:1310px;
+                                            top:80px;
+                                            position:absolute;
+                                            text-align: center;
+                                            border-radius: 10px;
+                                            
+                                        }
+ .LestTransactions{
+   width: 1077px;
+height: 597px;
+top: 100px;;
+background: #FFFFFF;
+border-radius: 20px;
+position: relative;
+box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.192);
+padding: 50px;
+      }
+      .LestText{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 31px;
+      }
+      .blueBox2{
+        width: 42px;
+        height: 42px;
+        background: #0E6EFF;
+border-radius: 5px;
+
+      }
+      .BlueText2{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 135px;
+height: 18px;
+        color: #0E6EFF;
+        position: relative;
+        left: 80px;
+        top: -40px;
+      }
+      .line1{
+        width: 1097px;
+        height: 100px;
+        text-align: center; 
+      }
+      .CodeAstrology{
+        width: 172px;
+        height: 23px;
+        position: relative;
+        left: 82px;
+        top: -50px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 23px;
+      }
+      .amount{
+        width: 42px;
+        height: 42px;
+        position: relative;
+        left: 434px;
+        top: -110px; 
+        background: #c7f1ff;
+        border-radius: 5px;
+        border-radius: 5px;
+        padding:10px ;
+      }
+
+.AmountText{
+    position: relative;
+    width: 63px;
+    height: 28px;
+    left: 61px;
+    top: -35px;
+    color: black;
+    font-family: DM Sans;
+}
+.AmountMoney{
+    position: relative;
+width: 89px;
+height: 23px;
+left: 60px;
+top: -55px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #171B1E;
+}
+.time{
+   color: #72757A;
+   width: 64px;
+height: 18px;
+left: 250px;
+top: -99px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+position: relative;
+}
+.Printer1{
+    width: 90px;
+    height: 50px;
+    position: relative;
+    left: 380px;
+    top: -145px;
+}
+.Tochki1{
+    width: 90px;
+    height: 50px;
+    position: relative;
+    left: 450px;
+    top: -195px;
+}
+
+.YellowBox2{
+    width: 42px;
+    height: 42px;
+    background: #FFBF26;
+border-radius: 5px;
+position: relative;
+left: -444px;
+top: -150px;
+  }
+  .YellowText2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    width: 135px;
+height: 18px;
+color: #01BEFF;
+    position: relative;
+    left: -360px;
+    top: -190px;
+  }
+  .line1{
+    width: 1097px;
+    height: 100px;
+    text-align: center; 
+  }
+  .CodeAstrology2{
+    width: 172px;
+    height: 23px;
+    position: relative;
+    left: -360px;
+    top: -200px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .amount2{
+    width: 42px;
+    height: 42px;
+    position: relative;
+   left:-10px ;
+top: -260px; 
+background: #ffe096;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding:10px ;
+  }
+
+.AmountText{
+position: relative;
+width: 63px;
+height: 28px;
+left: 61px;
+top: -35px;
+color: black;
+font-family: DM Sans;
+}
+.AmountMoney{
+position: relative;
+width: 89px;
+height: 23px;
+left: 60px;
+top: -55px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #171B1E;
+}
+.time{
+color: #72757A;
+width: 64px;
+height: 18px;
+left: 250px;
+top: -99px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+position: relative;
+}
+.Printer2{
+width: 90px;
+height: 50px;
+position: relative;
+left: 380px;
+top: -145px;
+}
+.Tochki2{
+width: 90px;
+height: 50px;
+position: relative;
+left: 450px;
+top: -195px;
+}
+
+
+.GreenBox2{
+    width: 42px;
+    height: 42px;
+    background: #7cf1ba;
+border-radius: 5px;
+position: relative;
+left: -444px;
+top: -150px;
+  }
+  .amount3{
+    width: 42px;
+    height: 42px;
+    position: relative;
+   left:-10px ;
+top: -260px; 
+background: #63ffb9;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding:10px ;
+  }
+
+  .RedBox2{
+    width: 42px;
+    height: 42px;
+    background: #FF684D;
+border-radius: 5px;
+position: relative;
+left: -444px;
+top: -150px;
+  }
+  .amount4{
+    width: 42px;
+    height: 42px;
+    position: relative;
+   left:-10px ;
+top: -260px; 
+background: #ffad9e;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding:10px ;
+  }
+  .Text4{
+    position: absolute;
+    width: 194px;
+    height: 21px;
+    left: -435px;
+    top: 100px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .slideBox1{
+    box-sizing: border-box;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 252px;
+    top: -161px;
+    border: 1px solid #A2A2A2;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    color: white;
+    cursor: pointer;
+  }
+  .slideBox2{
+    box-sizing: border-box;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 302px;
+    top: -206px;
+    border: 1px solid #A2A2A2;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    background-color: #0E6EFF;
+    color: white;
+    cursor: pointer;
+  }
+  .slideBox3{
+    box-sizing: border-box;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 352px;
+    top: -250px;
+    border: 1px solid #A2A2A2;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .slideBox4{
+    box-sizing: border-box;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 402px;
+    top: -293px;
+    border: 1px solid #A2A2A2;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .slideBox5{
+    box-sizing: border-box;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 452px;
+    top: -337px;
+    border: 1px solid #A2A2A2;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .GrafikBox{
+    position: absolute;
+    width: 340px;
+    height: 597px;
+    left: 621px;
+    top: -130px;
+    background: #FFFFFF;
+    border-radius: 20px;
+
+ box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.192);
+ padding-top:200px;
+       }
+       .Grafik3{
+        width: 340px;
+        height: 497px;
+        top: 50px;
+        position: absolute;
+       }
+       .Statistics{
+        position: absolute;
+        width: 111px;
+        height: 31px;
+        left:50px;
+        top: 50px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 31px;
+       }
+       .BankCard{
+        position: absolute;
+        width: 466px;
+        height: 301px;
+        left: -1130px;
+        top: 634px;
+        background: linear-gradient(247.35deg, #936DFF 0%, #3ED1FF 100%);
+        border-radius: 20px;
+       }
+       .BankCardText{
+        position: relative;
+        width: 75px;
+        height: 26px;
+        padding: 40px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        color:white;
+       }
+       .BankCardMath{
+           position: relative;
+        width: 128px;
+        height: 47px;
+        left: 40px;
+        top: -30px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 47px;
+        color: white;
+       }
+       .BankCardNamber{
+           position: relative;
+           color: white;
+           left: 220px;
+           top: -80px;
+       }
+       .BankCardNamber2{
+        position: relative;
+        color: white;
+        left: 260px;
+        top: -120px;
+    }
+    .BankCardNamber3{
+        position: relative;
+        color: white;
+        left: 300px;
+        top: -160px;
+    }
+    .BankCardNamber4{
+        position: relative;
+        color: white;
+        left: 350px;
+        top: -205px;
+    }
+    .BankCardOval{
+        position: relative;
+width: 234px;
+height: 234px;
+top: -485px;
+left: 300px;
+background: #FFFFFF;
+opacity: 0.1;
+border-radius: 50%;
+    }
+    .BankCardOval2{
+        position: relative;
+        width: 208px;
+        height: 208px;
+top: -585px;
+left: 370px;
+background: #FFFFFF;
+opacity: 0.1;
+border-radius: 50%;
+    }
+    .ValidThru{
+        position: relative;
+        width: 74px;
+        height: 21px;
+        left: 50px;
+        top: -584px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        color: white;
+    }
+    .CardData{
+        position: relative;
+        width: 74px;
+        height: 21px;
+        left: 50px;
+        top: -584px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        color: white;
+    }
+    .CardNme{
+        position: relative;
+        width: 74px;
+        height: 21px;
+        left: 150px;
+        top: -657px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        color: white;
+    }
+    .CardNmes{
+        position: relative;
+        width: 74px;
+        height: 21px;
+        left: 150px;
+        top: -657px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        color: white; 
+    }
+    .BankCardOval3{
+        position: relative;
+width: 54px;
+height: 54px;
+left: 336px;
+top: -707px;
+background: #FFFFFF;
+opacity: 0.4;
+border-radius: 50%;
+    }
+    .BankCardOval4{
+        position: relative;
+width: 54px;
+height: 54px;
+left: 376px;
+top: -760px;
+background: #FFFFFF;
+opacity: 0.4;
+border-radius: 50%;
+    }
+    .box3{
+        position: absolute;
+width: 466px;
+height: 104px;
+top: 975px;
+left: -1130px;
+background: #FFFFFF;
+box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.192);
+border-radius: 20px;
+    }
+    .TextBox3{
+        position: relative;
+width: 94px;
+height: 21px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+padding-top: 20px;
+padding-left: 50px;
+color: gray;
+    }
+    .NumberBox3{
+        position: relative;
+width: 63px;
+height: 31px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+left: 50px;
+top: 5px;
+    }
+    .GrafickBox3{
+        width: 200px;
+        height: 100px;
+        position: relative;
+        left: 170px;
+        top: -85px;
+    }
+    .box4{
+        position: relative;
+width: 466px;
+height: 444px;
+left: -640px;
+top: 435px;
+background: #FFFFFF;
+border-radius: 20px;
+box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.192);
+
+    }
+    .Box4Text{
+        position:relative;
+width: 179px;
+height: 31px;
+top: 30px;
+left: 30px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+    }
+    .TotalBalanse{
+        position: relative;
+        top:10px;
+        left: 30px;
+    }
+    .Balanse{
+        position: relative;
+width: 132px;
+height: 69px;
+left: 30px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 21px;
+    }
+    .priseBox{
+        position: relative;
+width: 183px;
+height: 97px;
+left: 30px;
+top: -30px;
+background: #0E6EFF;
+border-radius: 10px;
+padding-top: 10px;
+padding-left: 15px;
+cursor: pointer;
+    }
+    .PriseBoxText{
+        color: white;
+    }
+    .Prise{
+       
+        color: white; 
+        font-weight: 500;
+font-size: 24px;
+line-height: 21px;
+    }
+.Taxes{
+    position: relative;
+    width: 183px;
+    height: 97px;
+    left: 30px;
+    top: -30px;
+    background: #F5F5F5;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 15px; 
+    cursor: pointer;
+}
+.TaxesPrise{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 21px;
+}
+.Expenses{
+    position: relative;
+    width: 183px;
+    height: 97px;
+    left: 250px;
+    top: -248px;
+    background: #F5F5F5;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 15px; 
+    cursor: pointer;
+}
+.Debt{
+    position: relative;
+    width: 183px;
+    height: 97px;
+    left: 250px;
+    top: -226px;
+    background: #F5F5F5;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 15px; 
+    cursor: pointer;
+}
+.box5{
+    position: absolute;
+width: 466px;
+height: 444px;
+left: -150px;
+top: 630px;
+background: #FFFFFF;
+border-radius: 20px;
+box-shadow: 10px 4px 25px rgba(0, 0, 0, 0.192);
+padding-top: 30px;
+padding-left: 50px;
+}
+ .Box5Math{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 21px;
+
+ }  
+ .GreenGrafik{
+     width: 60px;
+     height: 220px;
+     position: relative;
+     background: linear-gradient(0deg, #88fcc8 -0.01%, #60E2AF 100%);
+     border-top-right-radius:50px;
+     border-top-left-radius:50px;
+     left: -13px;
+     top: 20px;
+     
+
+ }
+ .GreenGrafik2{
+    width: 60px;
+    height: 150px;
+    position: relative;
+    background: #00D171;
+    border-top-right-radius:50px;
+    border-top-left-radius:50px;
+    top: 90px;
+
+}
+.RedGrafik{
+    width: 60px;
+    height: 220px;
+    position: relative;
+    background: #FF8C77;
+    border-top-right-radius:50px;
+    border-top-left-radius:50px;
+    left: 80px;
+    top: -278px;
+}
+.RedGrafik2{
+   width: 60px;
+   height: 180px;
+   position: relative;
+   background: #FF684D;
+   border-top-right-radius:50px;
+   border-top-left-radius:50px;
+   top: 50px;
+}
+.Box5Math2{
+    position: absolute;
+    left: 145px;
+    top: 107px;
+}
+.Box5Math3{
+    position: relative;
+    left: 95px;
+    top: 55px;
+}
+.Mon{
+    position: relative;
+    left: 95px;
+    top: -283px;   
+}
+.Box5Namber{
+position: absolute;
+left: 55px;
+}
+.BlueGrafik{
+    width: 60px;
+    height: 220px;
+    position: absolute;
+    background: #70DAFF;
+    border-top-right-radius:50px;
+    border-top-left-radius:50px;
+    left: 80px;
+    top: 803px;
+}
+.BlueGrafik2{
+   width: 60px;
+   height: 120px;
+   position: relative;
+   background: #01BEFF;
+   border-top-right-radius:50px;
+   border-top-left-radius:50px;
+   top: 100px;
+ 
+}
+.Tue{
+    position: absolute;
+    left: 95px;
+    top: 1020px;
+}
+.GreenGrafikBox{
+    height: 11.562545776367188px;
+left: 200px;
+top: 780px;
+border-radius: 3px;
+background: #00D171;
+position: absolute;
+animation: progressLine12 .8s ease forwards;
+}
+@keyframes progressLine12{
+    from{
+      width: o;
+    }
+    to{
+       width: 55px;;
+    }
+}
+.DeloreSit1{
+    position: absolute;
+left: 200px;
+top: 800px;
+width: 150px;
+}
+.RedGrafikBox{
+    height: 11.562545776367188px;
+left:200px;
+top: 870px;
+border-radius: 3px;
+background: #FF684D;
+position: absolute;
+animation: progressLine13 .8s ease forwards;
+}
+@keyframes progressLine13{
+    from{
+      width: o;
+    }
+    to{
+       width: 55px;;
+    }
+}
+.DeloreSit2{
+    position: absolute;
+left: 200px;
+top: 890px;
+width: 150px;
+}
+.BlueGrafikBox{
+    height: 11.562545776367188px;
+left: 200px;
+top: 950px;
+border-radius: 3px;
+background: #01BEFF;
+position: absolute;
+animation: progressLine14 .8s ease forwards;
+}
+@keyframes progressLine14{
+    from{
+      width: o;
+    }
+    to{
+       width: 55px;;
+    }
+}
+.DeloreSit3{
+    position: absolute;
+left: 200px;
+top: 980px;
+width: 150px;
+}
+.Card2{
+    width: 600px;
+    height: 700px;
+       background-color: white;
+    box-shadow: 0 0 100px #000;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    left: -200px;
+  top: -400px;
+       position: absolute;
+       border-radius: 50px; 
+       display: none;   
+}
+
+.ExitCard{
+position: absolute;
+    box-shadow: 0 0 10px #000;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top:15px;
+    border-radius: 50%;
+    top:10px;
+    left: 520px;
+    cursor: pointer;
+}
+.UserImg{
+  width: 150px;
+  height: 150px;
+  box-shadow: 0 0 10px #000;
+  position: absolute;
+  border-radius: 50%;
+  top: 30px;
+}
+.InpCard1{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 5px;
+    left: 90px;
+    top: 230px;
+    position: absolute;
+}
+.Inp2Card1{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 5px;
+    left: 90px;
+    top: 310px;
+    position: absolute;
+}
+.Inp3Card1{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 5px;
+    left: 90px;
+    top: 390px;
+    position: absolute;
+}
+.buttonCard{
+    position: absolute;
+    width: 400px;
+    height: 50px;
+top: 500px;
+left: 90px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+}
+.CardButton{
+    width: 400px;
+    height: 50px;
+    background-color: lightslategray;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 50px;
+    left: 90px;
+    position: relative;
+}
+
+.button{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+}
+.GrafikBoxOval{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    top: 50px;
+    left: 130px;
+bottom: 97.06%;
+background: #0E6EFF;
+}
+.Over{
+    position: absolute;
+    color: #9AA4B0;
+    left: 150px;
+    top: 42px;
+}
+.Grafik3Namber{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.Grafik3Namber2{
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+.Grafik3Namber3{
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}
+.Grafik3Namber4{
+    position: absolute;
+    top: 180px;
+    left: 30px;
+}
+.Grafik3Namber5{
+    position: absolute;
+    top: 230px;
+    left: 30px;
+}
+.Grafik3Namber6{
+    position: absolute;
+    top: 270px;
+    left: 30px;
+}
+.Grafik3Namber7{
+    position: absolute;
+    top: 320px;
+    left: 30px;
+}
+.Grafik3Namber8{
+    position: absolute;
+    top: 370px;
+    left: 30px;
+}
+.Grafik3Namber9{
+    position: absolute;
+    top: 420px;
+    left: 30px;
+}
+.OrangeGrafik3{
+    content: '';
+    position: absolute;
+  
+width: 16.84536361694336px;
+top: 185px;
+left: 63px;
+background: #FF684D;
+animation: progressLine .8s ease forwards;
+}
+@keyframes progressLine{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 60px;
+    }
+}
+.OrangeGrafik3Oval{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:50px;
+left: -1px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+}
+.GreenGrafik3{
+    position: absolute;
+width: 16.84536361694336px;
+top: 100px;
+left: 105px;
+background: #00D171;
+animation: progressLine2 .8s ease forwards;
+}
+@keyframes progressLine2{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 151px;
+    }
+}
+.OrangeGrafik3Oval2{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:135px;
+left: -2px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+text-align: center;
+}
+.BlueGrafik3{
+    position: absolute;
+width: 16.84536361694336px;
+top: 150px;
+background: #0E6EFF;
+animation: progressLine3 .8s ease forwards;
+}
+@keyframes progressLine3{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 61px;
+    }
+}
+.GreenTriangle{
+    position: absolute;
+    left: 106px;
+    top: 80px;
+}
+.OrangeGrafik4{
+    position: absolute;
+width: 16.84536361694336px;
+top: 130px;
+left: 143px;
+background: #FF684D;
+animation: progressLine4 .8s ease forwards;
+}
+@keyframes progressLine4{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 181px;
+    }
+}
+
+.OrangeGrafik3Oval3{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:105px;
+left: -1px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+}
+.BlueGrafik4{
+    position: absolute;
+    height: 140.99945068359375px;
+width: 16.84536361694336px;
+top: 120px;
+background: #0E6EFF;
+animation: progressLine5 .8s ease forwards;
+}
+@keyframes progressLine5{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 181px;
+    }
+}
+
+.OrangeGrafik5{
+    position: absolute;
+width: 16.84536361694336px;
+top: 170px;
+left: 173px;
+background: #FF684D;
+animation: progressLine6 .8s ease forwards;
+}
+@keyframes progressLine6{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 76px;
+    }
+}
+.OrangeGrafik3Oval4{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:64px;
+left: -1px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+text-align: center;
+}
+.BlueGrafik5{
+    position: absolute;
+width: 16.84536361694336px;
+top: 80px;
+background: #0E6EFF;
+animation: progressLine7 .8s ease forwards;
+}
+@keyframes progressLine7{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 111px;
+    }
+}
+.OrangeGrafik6{
+    position: absolute;
+width: 16.84536361694336px;
+top: 150px;
+left: 199px;
+background: #FF684D;
+animation: progressLine8 .8s ease forwards;
+}
+@keyframes progressLine8{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 99px;
+    }
+}
+.OrangeGrafik3Oval5{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:84px;
+left: -1px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+text-align: center;
+}
+.BlueGrafik6{
+    position: absolute;
+width: 16.84536361694336px;
+top: 90px;
+background: #0E6EFF;
+animation: progressLine9 .8s ease forwards;
+}
+@keyframes progressLine9{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 51px;
+    }
+}
+
+.OrangeGrafik7{
+    position: absolute;
+width: 16.84536361694336px;
+top: 139px;
+left: 229px;
+background: #FF684D;
+animation: progressLine10 .8s ease forwards;
+}
+@keyframes progressLine10{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 111px;
+    }
+}
+.OrangeGrafik3Oval6{
+    height: 20.389182112164622px;
+width: 20.371711587557918px;
+top:96px;
+left: -1px;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+text-align: center;
+}
+.BlueGrafik7{
+    position: absolute;
+width: 16.84536361694336px;
+top: 100px;
+background: #0E6EFF;
+animation: progressLine11 .8s ease forwards;
+}
+@keyframes progressLine11{
+    from{
+        height: 0px;
+    }
+    to{
+        height: 81px;
+    }
+}
